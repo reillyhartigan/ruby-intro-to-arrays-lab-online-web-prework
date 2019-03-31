@@ -1,3 +1,7 @@
 def instantiate_new_array
-  Array.new
+  my_new_array = Array.new
+end
+
+def array_with_two_elements
+  my_two_array = Array.new(2)
 end
