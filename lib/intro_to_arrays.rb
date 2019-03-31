@@ -5,3 +5,19 @@ end
 def array_with_two_elements
   my_two_array = Array.new(2)
 end
+
+def first_element(array)
+  my_first_element = array[0]
+end
+
+def third_element(array)
+  my_third_element = array[2]
+end
+
+def last_element(array)
+  my_last_element = array[-1]
+end
+
+def first_element_with_array_methods
+
+end
